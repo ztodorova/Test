@@ -1,0 +1,5 @@
+C:\Users\Zlati\documents\visual studio 2015\Projects\Lemon\Lemon.Services\bin\Debug\Lemon.Services.dll
+C:\Users\Zlati\documents\visual studio 2015\Projects\Lemon\Lemon.Services\bin\Debug\Lemon.Services.pdb
+C:\Users\Zlati\documents\visual studio 2015\Projects\Lemon\Lemon.Services\obj\Debug\Lemon.Services.csprojResolveAssemblyReference.cache
+C:\Users\Zlati\documents\visual studio 2015\Projects\Lemon\Lemon.Services\obj\Debug\Lemon.Services.dll
+C:\Users\Zlati\documents\visual studio 2015\Projects\Lemon\Lemon.Services\obj\Debug\Lemon.Services.pdb
